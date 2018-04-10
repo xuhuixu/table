@@ -1,3 +1,4 @@
 # table
 iView group table
-![](./assets/logo.png =100x100)
+![](bug1.png)
+![](bug2.png)
