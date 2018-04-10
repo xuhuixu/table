@@ -1,3 +1,3 @@
 # table
 iView group table
-![](bug2.png)
+![](./assets/logo.png =100x100)
