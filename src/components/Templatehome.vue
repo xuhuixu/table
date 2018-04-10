@@ -10,8 +10,8 @@
             <router-view></router-view>
         </Content>
         <Footer class="layout-footer">
-            2016 © 苏州华墨信息科技有限公司&nbsp;&nbsp;
-            <a href="http://www.huamotec.com/" title="China’s Leading Kidney Diseases Information Solutions Provider" target="_blank">中国领先的肾脏病解决方案提供商</a>
+            有限公司&nbsp;&nbsp;
+            <a href="#" target="_blank">解决方案提供商</a>
         </Footer>
     </Layout>
   </div>
@@ -38,7 +38,7 @@
         overflow: hidden;
     }
     .layout-top{
-        z-index: 1;
+        z-index: 9998;
         position: fixed;
         left:0px;
         right:0px;
@@ -55,6 +55,7 @@
         background: white;
     }
     .layout-footer{
+        z-index: 9998;
         position: fixed;
         left:0px;
         right:0px;

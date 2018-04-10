@@ -1,6 +1,6 @@
 <template>
     <div class="layout-title">
-        <span class="bold" style="font-size: 24px;width: 450px; letter-spacing: 1px;color: #5C9BD1!important;">华墨标准版透析质控平台 1.0 </span>
+        <span class="bold" style="font-size: 24px;width: 450px; letter-spacing: 1px;color: #5C9BD1!important;">操作平台 1.0 </span>
         <div class="layout-title-operation">
             <Dropdown trigger="click">
                 <span>
@@ -60,7 +60,7 @@ export default {
         background: white;
         height: 75px;
         position: fixed;
-        z-index: 2;
+        z-index: 9999;
         top: 0px;
         right: 0px;
         left: 0px;
