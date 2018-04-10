@@ -1,4 +1,6 @@
 # table
-iView group table
-![](bug1.png)
-![](bug2.png)
+iView group table bug
+### bug1
+![](bug1.png =100x100)
+### bug2
+![](bug2.png =100x100)
